@@ -1,0 +1,35 @@
+{
+  "name": "retro-trek",
+  "version": "0.0.1",
+  "description": "Katra bundled with STTR1 as a Chrome App",
+  "keywords": [
+    "Chrome App",
+    "BASIC",
+    "Jison",
+    "coffee-script"
+  ],
+  "author": "bruce davidson <darkoverlordofdata@gmail.com>",
+  "contributors": [
+    {
+      "name": "bruce davidson",
+      "email": "darkoverlordofdata@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "colors": "~0.6.2"
+  },
+  "scripts": {
+  },
+  "bin": {
+    "katra": "./bin/katra"
+  },
+  "devDependencies": {
+  },
+  "repository": "git://github.com/darkoverlordofdata/retro-trek",
+  "main": "index",
+  "engines": {
+    "node": ">=0.10.x",
+    "npm": ">=1.2.x"
+  },
+  "license": "MIT"
+}

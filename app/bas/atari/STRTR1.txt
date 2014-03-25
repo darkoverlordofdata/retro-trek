@@ -1,0 +1,89 @@
+THESE ARE THE INSTRUCTIONS FOR PLAYING THE GAME STARTREK
+
+
+FIRST YOUR CHOICES OF COMMANDS ARE:
+
+
+     "0" - SET COURSE 
+     "1" - SHORT RANGE SENSOR SCAN
+     "2" - LONG RANGE SENSOR SCAN
+     "3" - FIRE PHASERS
+     "4" - FIRE PHOTON TORPEDOES
+     "5" - DAMAGE CONTROL REPORT
+     "6" - LIST THE COMMANDS
+
+ WHEN YOU ARE ASKED FOR THE COURSE YOU MUST RESPOND WITH
+
+ A NUMBER WHICH CORRESRONDS TO AN ANGLE IN WHICH 
+
+ YOU WISH TO TRAVEL.  PLOTTED BELOW IS A GRAPH OF THE
+
+ DIRECTIONS AND THEIR ANGLES:
+
+          0
+          I
+     270<<E>>090
+          I
+         180
+ 
+
+ ON A SHORT RANGE SCAN YOU WILL FIND THE LAYOUT OF THE
+
+ STARS(*), STARBASES(B), KLINGON SHIPS(K), AND THE
+ 
+ ENTERPRISE(E).
+
+ ON A LONG RANGE SCAN YOU WILL FIND THE NUMBER OF STARS,
+
+ STARBASES, AND THE NUMBER OF KLINGONS IN THAT QUADRANT.
+
+ BELOW IS A EXAMPLE OF ONE OF THE BLOCKS IN A SCAN:
+ 
+
+     111
+     III
+     III>>>>>>> NUMBER OF STARS
+     II
+     II>>>>>>>> NUMBER OF STARBASES
+     I
+     I>>>>>>>>> NUMBER OF KLINGONS IN THE QUADRANT
+
+ 
+ BELOW IS THE LAYPUT OF THE GAME BOARD AND EACH OF THE QUADRANT
+ 
+ NUMBERS. 
+
+-------------------------------------------------
+I     I     I     I     I     I     I     I     I
+I 1-1 I 1-2 I 1-3 I 1-4 I 1-5 I 1-6 I 1-7 I 1-8 I
+I     I     I     I     I     I     I     I     I
+-------------------------------------------------
+I     I     I     I     I     I     I     I     I
+I 2-1 I 2-2 I 2-3 I 2-4 I 2-5 I 2-6 I 2-7 I 2-8 I
+I     I     I     I     I     I     I     I     I
+-------------------------------------------------
+I     I     I     I     I     I     I     I     I
+I 3-1 I 3-2 I 3-3 I 3-4 I 3-5 I 3-6 I 3-7 I 3-8 I 
+I     I     I     I     I     I     I     I     I
+-------------------------------------------------
+I     I     I     I     I     I     I     I     I
+I 4-1 I 4-2 I 4-3 I 4-4 I 4-5 I 4-6 I 4-7 I 4-8 I
+I     I     I     I     I     I     I     I     I
+-------------------------------------------------
+I     I     I     I     I     I     I     I     I
+I 5-1 I 5-2 I 5-3 I 5-4 I 5-5 I 5-6 I 5-7 I 5-8 I
+I     I     I     I     I     I     I     I     I  
+-------------------------------------------------
+I     I     I     I     I     I     I     I     I   
+I 6-1 I 6-2 I 6-3 I 6-4 I 6-5 I 6-6 I 6-7 I 6-8 I 
+I     I     I     I     I     I     I     I     I 
+-------------------------------------------------
+I     I     I     I     I     I     I     I     I
+I 7-1 I 7-2 I 7-3 I 7-4 I 7-5 I 7-6 I 7-7 I 7-8 I
+I     I     I     I     I     I     I     I     I
+-------------------------------------------------
+I     I     I     I     I     I     I     I     I
+I 8-1 I 8-2 I 8-3 I 8-4 I 8-5 I 8-6 I 8-7 I 8-8 I 
+I     I     I     I     I     I     I     I     I
+-------------------------------------------------
+ 

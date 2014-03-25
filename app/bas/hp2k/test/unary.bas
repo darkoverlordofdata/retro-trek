@@ -1,0 +1,6 @@
+UNARY
+
+10 X = -1
+20 PRINT X
+30 Y = -7000+3
+40 PRINT Y
