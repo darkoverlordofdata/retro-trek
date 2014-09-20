@@ -12,7 +12,8 @@
 #+--------------------------------------------------------------------+
 #
 # Run katra in the browser
-#
+#    <iframe src="run.html?root=&basic=hp2k&program=STTR1" width="820" height="600"></iframe>
+
 $ ->
   katra = require('./katra')
   args = undefined # query args
@@ -27,6 +28,7 @@ $ ->
         if pairs[i].length > 0
           pair = pairs[i].split("=")
           result[decodeURIComponent(pair[0])] = decodeURIComponent(pair[1])
+
       result
 
   
@@ -53,6 +55,8 @@ $ ->
   
   # load & run the basic program 
   args = parseQuery()
+  console.log args
+
   katra.setRoot args.root ? "/katra/"
   if Object.keys(args).length is 0
     args = title: "Katra BASIC"

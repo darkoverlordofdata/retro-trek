@@ -16,15 +16,15 @@
     }
   ],
   "dependencies": {
-    "colors": "~0.6.2"
+    "colors": "~0.6.2",
+    "jison": "^0.4.15",
+    "q": "^1.0.1"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "bin": {
     "katra": "./bin/katra"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "repository": "git://github.com/darkoverlordofdata/retro-trek",
   "main": "index",
   "engines": {

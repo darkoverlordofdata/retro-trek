@@ -11,8 +11,8 @@ chrome.app.runtime.onLaunched.addListener(function() {
   var width = 840;
   var height = 600;
 
-  chrome.app.window.create('index.html', {
-    id: "helloWorldID",
+  chrome.app.window.create('window.html', {
+    id: "retroTrek",
     bounds: {
       width: width,
       height: height,
